@@ -1,4 +1,4 @@
-# ascii-pixel-art-animation-tool
+# ASCII Pixel Art Animation Tool
 
 ## Keyboard Shortcuts
 
